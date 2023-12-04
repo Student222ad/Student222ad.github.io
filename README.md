@@ -2,7 +2,7 @@
  
 ![image](https://github.com/Student222ad/Student222ad.github.io/assets/150112033/8c1d088a-39f0-459b-b077-b4d7ef482787)
 
-*Introduction to Football*
+## *Introduction to Football*
 
 Football is a game in which two teams of eleven players attempt to move the ball into the goal of the other team by utilizing any part of their body other than their hands and arms. The goalie is the only one allowed to handle the ball, and even then, only in the penalty area that surrounds the goal. Whichever team scores the most goals wins.
 
