@@ -16,3 +16,8 @@ Watch these videos to know more about the history of Football:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q7UhdRXPGYc?si=pumABk8yzG2-Hs0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## How to play Football
+The objective of this game is to score the ball into your opponent’s goal. The whole ball needs to be over the line for it to be a legitimate goal. A goal can be scored with any part of the body apart from the hand or arm up to the shoulder. The goal itself consists of a frame measuring 8 feet high and 8 yards wide. 
+To win the game, You must score more goals than your opponents. Except in cup games, where the game can go to extra time and even a penalty shootout to determine the victor, if the scores remain level after 90 minutes, the game will conclude in a draw. Except for goalkeepers, who can use any part of their body within the 18 yard box, players must kick the ball using their feet and are not permitted to use their hands.
+
+## Rules
+
